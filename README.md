@@ -45,7 +45,8 @@ The project uses temperature data recorded over five days for three locations:
 - GitHub
 
 I used NumPy properties such as: .ndim .shape .dtype .size
-Findings
+
+# Findings
 
 Some observations from the analysis include:
 
@@ -53,15 +54,54 @@ Lagos recorded higher temperatures than Abuja on Monday, Tuesday, and Wednesday.
 Abuja recorded higher temperatures than Lagos on Thursday and Friday.
 Abuja recorded the highest single temperature in the dataset at 32.0°C.
 NumPy made it possible to perform calculations on multiple temperature values at once without using a for loop.
-Conclusion
+
+#Conclusion
 
 This project helped me understand how NumPy arrays can be used to work with numerical data. I practiced creating arrays, inspecting their properties, performing calculations, and comparing data between different locations.
 
 This project is part of my ongoing journey in Python and Data Analytics.
 
-Project Files
+# Project Files
 Weather_Temperature_Analysis_with_NumPy.ipynb — Jupyter Notebook containing the analysis and exercises.
+
 
 ## Author
 Ismaila Ainoko Aminu
+
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
+
+## Project Screenshots
+
+### Project Introduction
+
+![Project Introduction](screenshots/Shot%201.png)
+
+### Import NumPy
+
+![Import NumPy](screenshots/Shot%210.png)
+
+### Dataset
+
+![Dataset](screenshots/Shot%202.png)
+
+### Array Conversion
+
+![Array Conversion](screenshots/Shot%203.png)
+
+### Array Inspection
+
+![Array Inspection](screenshots/Shot%205.png)
+
+### Numerical Operations
+
+![Numerical Operations](screenshots/Shot%206.png)
+
+### Lagos vs Abuja Comparison
+
+![Lagos vs Abuja Comparison](screenshots/Shot%207.png)
+
+
+![Findings](screenshots/Shot%208.png)
+
+
+![Conclusion](screenshots/Shot%209.png)

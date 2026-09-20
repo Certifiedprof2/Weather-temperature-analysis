@@ -78,25 +78,20 @@ Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 ### Import NumPy
 
-![Import NumPy](screenshot/shot%210.png)
+![Import NumPy](screenshot/shot%2010.png)
 
-### Dataset
 
 ![Dataset](screenshot/shot%202.png)
 
-### Array Conversion
 
 ![Array Conversion](screenshot/shot%203.png)
 
-### Array Inspection
 
 ![Array Inspection](screenshot/shot%205.png)
 
-### Numerical Operations
 
 ![Numerical Operations](screenshot/shot%206.png)
 
-### Lagos vs Abuja Comparison
 
 ![Lagos vs Abuja Comparison](screenshot/shot%207.png)
 
@@ -104,4 +99,4 @@ Aspiring Data Analyst | Python | SQL | Power BI | Excel
 ![Findings](screenshot/shot%208.png)
 
 
-![Conclusion](screenshot/hot%209.png)
+![Conclusion](screenshot/shot%209.png)

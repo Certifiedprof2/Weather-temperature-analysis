@@ -74,34 +74,34 @@ Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 ### Project Introduction
 
-![Project Introduction](screenshots/Shot%201.png)
+![Project Introduction](screenshot/shot%201.png)
 
 ### Import NumPy
 
-![Import NumPy](screenshots/Shot%210.png)
+![Import NumPy](screenshot/shot%210.png)
 
 ### Dataset
 
-![Dataset](screenshots/Shot%202.png)
+![Dataset](screenshot/shot%202.png)
 
 ### Array Conversion
 
-![Array Conversion](screenshots/Shot%203.png)
+![Array Conversion](screenshot/shot%203.png)
 
 ### Array Inspection
 
-![Array Inspection](screenshots/Shot%205.png)
+![Array Inspection](screenshot/shot%205.png)
 
 ### Numerical Operations
 
-![Numerical Operations](screenshots/Shot%206.png)
+![Numerical Operations](screenshot/shot%206.png)
 
 ### Lagos vs Abuja Comparison
 
-![Lagos vs Abuja Comparison](screenshots/Shot%207.png)
+![Lagos vs Abuja Comparison](screenshot/shot%207.png)
 
 
-![Findings](screenshots/Shot%208.png)
+![Findings](screenshot/shot%208.png)
 
 
-![Conclusion](screenshots/Shot%209.png)
+![Conclusion](screenshot/hot%209.png)
